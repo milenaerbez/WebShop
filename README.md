@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-
+#Project description
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This web application is a basic online shop that provides essential functionalities for users to explore products, view details, manage their shopping cart, and make purchases. Features are: products list, product details, adding and removing from shopping cart, sorting by price (asc/desc) and order by category. 
+Techonologies used are: React.js for building user interface; bootstrap for styling; Redux for managing global state and Routing for navigating through the app.
 ## Available Scripts
 
 In the project directory, you can run:
